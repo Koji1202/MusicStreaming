@@ -1,0 +1,6 @@
+framework module Pods_StreamMusicPlayer {
+  umbrella header "Pods-StreamMusicPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__37-[BrowseMusicController uploadMusic:]_block_invoke:BrowseMusicController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[title pathExtension]">
+            </PersistentString>
+            <PersistentString
+               value = "exporter.status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BrowseMusicController viewDidAppear:]:BrowseMusicController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "allAlbumsArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController voteMusic:Value:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[song objectForKey:@&quot;my_vote&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController nextSognPlay:Value:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[song objectForKey:@&quot;info&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController updateProgress]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CMTimeGetSeconds(currentItem.currentTime)">
+            </PersistentString>
+            <PersistentString
+               value = "duration.value">
+            </PersistentString>
+            <PersistentString
+               value = "currentTime.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BrowseMusicController getBinaryFromMediaItem:]:BrowseMusicController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MainViewController observeValueForKeyPath:ofObject:change:context:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "playerItem.timedMetadata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BrowseMusicController tableView:cellForRowAtIndexPath:]:BrowseMusicController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+            <PersistentString
+               value = "[song valueForProperty: MPMediaItemPropertyTitle]">
+            </PersistentString>
+            <PersistentString
+               value = "cell.titleView.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
